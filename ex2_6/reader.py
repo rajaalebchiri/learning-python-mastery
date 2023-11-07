@@ -1,5 +1,5 @@
 # reader.py
-import csvx
+import csv
 
 
 def read_csv_as_dicts(filename, coltypes):
