@@ -89,4 +89,3 @@ def print_table(data, fields, formatter):
             formatter.row(rowdata)
     else:
         raise TypeError("Expected a TableFormatter")
-
